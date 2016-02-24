@@ -1,0 +1,28 @@
+name: Michael Talley
+favicon: null
+layout_spectrum: 0.8367452207021415
+typography_spectrum: 0.6422136926557869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.37160802935250103
+  lightness: 0.3763470225967467
+  saturation: 0.01511019398458302
+  rhythmicContrast: 0.14056312944740057
+purpose: []
