@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Talley]]></title>
+        <description><![CDATA[Michael Talley]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 18:17:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Reasons Traveling With Little Kids Is Awesome]]></title>
+            <description><![CDATA[<article><h1>5 Reasons Traveling With Little Kids Is Awesome</h1><p>Anyone who has ever traveled with little kids understands the challenges that come with it.  Recently my wife and I traveled to Colorado with our 3 year old and our 14 month old. Before we had kids the only challenging part of a trip was getting though airport security. The ride to the airport was a great time to talk and dream together and the flight itself was a relaxing opportunity to read a good book or listen to some music while someone served us water and peanuts 4 at a time.</p></article>]]></description>
+            <link>undefined5-reasons-traveling-with-little-kids-is-awesome/index.html</link>
+            <guid isPermaLink="false">733272b7-1058-4362-9906-9fd83e8d48e0</guid>
+            <pubDate>Wed, 24 Feb 2016 18:17:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
