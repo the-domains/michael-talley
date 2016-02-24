@@ -1,6 +1,6 @@
 name: Michael Talley
 favicon: null
-layout_spectrum: 0.15255
+layout_spectrum: 0.01142
 typography_spectrum: 0.37702
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2f2f2'
-    - '#d8d8d8'
-    - '#bdbdbd'
-    - '#4e4e4e'
-    - '#737373'
+    - '#ffffff'
+    - '#120806'
+    - '#6e4426'
+    - '#b3d2df'
+    - '#a59c93'
   brandStrength: 0.37160802935250103
   lightness: 0.3763470225967467
   saturation: 0.01511019398458302
