@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Family
-datePublished: '2016-02-24T18:17:06.205Z'
-dateModified: '2016-02-24T18:16:43.502Z'
+datePublished: '2016-02-24T19:39:33.773Z'
+dateModified: '2016-02-24T18:17:13.300Z'
 title: 5 Reasons Traveling With Little Kids Is Awesome
 author: []
+sourcePath: _posts/2016-02-24-5-reasons-traveling-with-little-kids-is-awesome.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-5-reasons-traveling-with-little-kids-is-awesome.md
-published: true
 url: 5-reasons-traveling-with-little-kids-is-awesome/index.html
 _type: Article
 
